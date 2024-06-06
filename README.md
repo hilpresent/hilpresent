@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I'm passionate about leveraging data science to drive impactful decisions.
-- 🌱 I'm a recent grad student with an M.S. in Computational Data Science from Georgia Tech.
+- 🌱 I'm a recent grad student with an M.S. in Computational Data Science from Georgia Tech. 
 - 💞️ I'm looking to collaborate on projects that use machine learning techniques and data analysis to discover new and innovative solutions.
 
 ## Skills
