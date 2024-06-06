@@ -20,7 +20,7 @@
 ## Contact Me
 - 📫 You can reach me at [hpresent6@gatech.edu](mailto:hpresent6@gatech.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/hilarypresent).
 
-## Fun Facts
+## Fun Facts 
 - ⚡ I biked across the country when I was 16 (3200 miles, from South Carolina to California)
 - ⚡ I have two different shaped ears – one attached and one detached
 - ⚡ Botanically speaking, strawberries are not considered berries, whereas bananas are
