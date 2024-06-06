@@ -15,7 +15,7 @@
 ## Projects
 - [Plastics in the Ocean Analysis](#) - Visual analysis aimed at understanding the distribution and impact of plastic pollution in oceans.
 - [Tweet Sentiment Analysis](#) - Utilizing NLP techniques to analyze and classify the sentiment of tweets.
-- [Polymer Classification with Neural Networks](#) - Applying deep learning methods to classify polymers for materials science applications.
+- [Polymer Classification with Neural Networks](#) - Applying deep learning methods to classify polymers for materials science applications. 
 
 ## Contact Me
 - 📫 You can reach me at [hpresent6@gatech.edu](mailto:hpresent6@gatech.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/hilarypresent).
