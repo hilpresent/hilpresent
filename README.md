@@ -13,7 +13,7 @@
 - Cloud Computing: Microsoft Azure, AWS, GCP
 
 ## Projects
-- [X-Ray Classification using Computer Vision and Deep Learning](#https://github.com/hilpresent/CS6476_Project) - Visual analysis aimed at understanding the distribution and impact of plastic pollution in oceans.
+- [X-Ray Classification using Computer Vision and Deep Learning](https://github.com/hilpresent/CS6476_Project) - Visual analysis aimed at understanding the distribution and impact of plastic pollution in oceans.
 - [Tweet Sentiment Analysis](#) - Utilizing NLP techniques to analyze and classify the sentiment of tweets.
 - [Polymer Classification with Neural Networks](#) - Applying deep learning methods to classify polymers for materials science applications. 
 
