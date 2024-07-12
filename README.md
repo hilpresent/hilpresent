@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on projects that use machine learning techniques and data analysis to discover new and innovative solutions.
 
 ## Skills
-- **Programming Languages:** Python, R, JavaScript, HTML/CSS, C
+- **Programming Languages:** Python, R, JavaScript, HTML/CSS, Assembly Language
 - **Data & Visualization:** Pandas, NumPy, Tableau, D3.js
 - **Machine Learning & Deep Learning:** PyTorch, TensorFlow, Keras
 - **Database & Data Manipulation:** SQL, Hadoop, Spark
